@@ -1,0 +1,5 @@
+html {
+  background: url(images/hospital-bg.jpg) no-repeat center fixed;
+  object-fit: cover;
+  background-size: cover;
+}
